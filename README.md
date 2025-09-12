@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | DSA Enthusiast | Full-Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=340%2B+LeetCode+Questions+Solved;4+Web+Projects+Deployed+on+GitHub;Open+to+SDE+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=350%2B+LeetCode+Questions+Solved;4+Web+Projects+Deployed+on+GitHub;Open+to+SDE+Opportunities" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="400"/>
@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" />
 </p>
 
-- 🚀 Solved over **340+ DSA questions on [LeetCode](https://leetcode.com/u/jaskaransingh11/)** and **60+ on [GeeksforGeeks](https://www.geeksforgeeks.org/user/jaskaransyur6/)**  
+- 🚀 Solved over **350+ DSA questions on [LeetCode](https://leetcode.com/u/jaskaransingh11/)** and **60+ on [GeeksforGeeks](https://www.geeksforgeeks.org/user/jaskaransyur6/)**  
 - 🔨 Built 4 web development projects using modern tech like **React.js**, **MongoDB**, **Node.js**, and **JavaScript**
 - 🔙 Gained solid hands-on experience in **Backend Development**, including REST APIs, Express.js, and MongoDB integration
 - ☁️ Exploring **Cloud Computing**, deployment strategies, and backend scalability
